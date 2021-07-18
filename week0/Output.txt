@@ -1,0 +1,2 @@
+key element present
+no of comparioson 3
